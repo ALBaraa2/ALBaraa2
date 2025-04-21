@@ -26,7 +26,7 @@
 
 ### 📌 Pinned Projects
 
-Here are some of my favorite projects (make sure to pin them!):
+Here are some of my favorite projects:
 
 - 🔗 [Event Managment](https://github.com/ALBaraa2/event-managment.git) – A Laravel RESTful API for managing events and attendees with full authentication. Users can create, update, and delete events, as well as manage attendees for each event. 
 
