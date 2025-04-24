@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Albaraa R. Alsaiqali</h1>
+<h1 align="center">Hi 👋, I'm AlBaraa R. AlSaiqali</h1>
 
 <p align="center">
   💻 Backend Web Developer | 🎓 Computer Engineering Student  
@@ -28,7 +28,18 @@
 
 Here are some of my favorite projects:
 
-- 🔗 [Event Managment](https://github.com/ALBaraa2/event-managment.git) – A Laravel RESTful API for managing events and attendees with full authentication. Users can create, update, and delete events, as well as manage attendees for each event. 
+- ### 📅 [Event Management](https://github.com/ALBaraa2/event-managment.git)
+A Laravel RESTful API for managing events and attendees with full authentication. Users can create, update, and delete events, as well as manage attendees for each event.
+
+- ### 📚 [Book Review](https://github.com/ALBaraa2/book-review.git)  
+A full-stack Laravel web application that allows users to register, log in, browse books, and submit reviews with average rating calculation.
+
+- ### 🎓 [Students Attendance System](https://github.com/ALBaraa2/Students_Attendance.git)  
+A Java-based desktop application for managing student attendance records. Includes role-based access for admins and teaching assistants.
+
+- ### ✅ [Task List](https://github.com/ALBaraa2/task-list.git)  
+A simple and clean task management web app built with Laravel and Tailwind CSS. Supports creating, updating, deleting, and marking tasks as complete.
+
 
 ---
 
