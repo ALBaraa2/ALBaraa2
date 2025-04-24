@@ -11,7 +11,10 @@
 - 🎯 Passionate about building scalable **Laravel** web applications
 - 🐘 Enjoy working with **PostgreSQL** and RESTful APIs  
 - 🌱 Always exploring new backend technologies and best practices  
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/albaraa-r-alsaiqali-06a43222b)
+- 📫 Reach me via:  
+  - [LinkedIn](https://www.linkedin.com/in/albaraa-r-alsaiqali-06a43222b)  
+  - [Instagram](https://www.instagram.com/albaraa_.02/)  
+  - [WhatsApp](https://wa.me/970599172914)
 
 ---
 
