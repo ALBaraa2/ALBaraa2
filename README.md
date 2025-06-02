@@ -56,5 +56,4 @@ Here are some of my favorite projects:
 
 ### 🌟 Fun Fact
 "Programming is not just a skill; it’s an art of turning logic into reality."
-
 ---
