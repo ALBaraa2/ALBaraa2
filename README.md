@@ -8,9 +8,10 @@
 
 ### 👨‍💻 About Me
 
-- 🎯 Passionate about building scalable **Laravel** web applications
-- 🐘 Enjoy working with **PostgreSQL** and RESTful APIs  
-- 🌱 Always exploring new backend technologies and best practices  
+- 🎯 Passionate about building scalable **Laravel** web applications  
+- 🐘 Proficient in **PostgreSQL** and developing RESTful APIs  
+- 🌱 Continuously exploring new backend technologies and best practices  
+- 📚 Dedicated to creating efficient and user-friendly systems  
 - 📫 Reach me via:  
   - [LinkedIn](https://www.linkedin.com/in/albaraa-r-alsaiqali-06a43222b)  
   - [Instagram](https://www.instagram.com/albaraa_.02/)  
@@ -24,6 +25,7 @@
 - **Frameworks:** Laravel  
 - **Databases:** PostgreSQL  
 - **Tools:** Git, GitHub, Postman  
+- **Frontend:** Tailwind CSS, Blade  
 
 ---
 
@@ -40,10 +42,13 @@
 
 Here are some of my favorite projects:
 
+- #### 📚 [Library Management System](https://github.com/ALBaraa2/Library.git)  
+  A comprehensive Laravel-based library system. Features include book borrowing, user reviews, and a secure login system. Built with Tailwind CSS for responsive design and PostgreSQL for efficient data handling.
+
 - #### 📅 [Event Management](https://github.com/ALBaraa2/event-managment.git)  
   A Laravel RESTful API for managing events and attendees with full authentication. Users can create, update, and delete events, as well as manage attendees for each event.
 
-- #### 📚 [Book Review](https://github.com/ALBaraa2/book-review.git)  
+- #### ⭐ [Book Review](https://github.com/ALBaraa2/book-review.git)  
   A full-stack Laravel web application that allows users to register, log in, browse books, and submit reviews with average rating calculation.
 
 - #### 🎓 [Students Attendance System](https://github.com/ALBaraa2/Students_Attendance.git)  
