@@ -22,7 +22,7 @@
 ### 🛠️ Tech Stack
 
 - **Languages:** PHP, Java  
-- **Frameworks:** Laravel  
+- **Frameworks:** Laravel API 
 - **Databases:** PostgreSQL  
 - **Tools:** Git, GitHub, Postman  
 - **Frontend:** Tailwind CSS, Blade  
