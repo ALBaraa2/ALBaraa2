@@ -42,6 +42,9 @@
 
 Here are some of my favorite projects:
 
+- #### 🚗 [Rento Car Rental Backend](https://github.com/ALBaraa2/Rento--Car-rental-backend.git)  
+  Backend RESTful API for a car rental application connecting car owners, showrooms, and customers. Built with Laravel and PostgreSQL, implementing secure authentication, role-based access, and optimized database design.
+  
 - #### 📚 [Library Management System](https://github.com/ALBaraa2/Library.git)  
   A comprehensive Laravel-based library system with book borrowing, user reviews, and secure authentication. Built for efficiency and user experience.
 
