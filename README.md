@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AlBaraa R. AlSaiqali</h1>
 
 <p align="center">
-  💻 Backend Web Developer | 🎓 Computer Engineering Student  
+  💻 Backend Web Developer | 🎓 Computer Engineering  
 </p>
 
 ---
